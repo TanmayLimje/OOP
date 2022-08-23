@@ -1,3 +1,11 @@
+/* Pattern
+1
+1 2
+1 2 3 
+. . . . n
+*/
+
+
 package test1;
 import java.util.Scanner;
 
