@@ -8,11 +8,15 @@ public class complex {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter first value: ");
+		System.out.println("Real value 1: ");
 		real1 = sc.nextInt();
+		System.out.println("Imaginary value 1: ");
 		img1 = sc.nextInt();
 		
 		System.out.println("Enter second value: ");
+		System.out.println("Real value 2: ");
 		real2 = sc.nextInt();
+		System.out.println("Imaginary value 2: ");
 		img2 = sc.nextInt();
 		
 	}
